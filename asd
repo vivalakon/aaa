@@ -13,7 +13,7 @@ Sub CDO_Send_Selection_Or_Range_Body()
            .Item("http://schemas.microsoft.com/cdo/configuration/smtpusessl") = True
            .Item("http://schemas.microsoft.com/cdo/configuration/smtpauthenticate") = 1
            .Item("http://schemas.microsoft.com/cdo/configuration/sendusername") = "konmalyshkin@gmail.com"
-           .Item("http://schemas.microsoft.com/cdo/configuration/sendpassword") = "azsx12345"
+           .Item("http://schemas.microsoft.com/cdo/configuration/sendpassword") = ""
            .Item("http://schemas.microsoft.com/cdo/configuration/smtpserver") = "smtp.gmail.com"
 
            .Item("http://schemas.microsoft.com/cdo/configuration/sendusing") = 2
